@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Orbital Trade Hook</name>
+	<author>dninemfive</author>
+	<supportedVersions><li>1.0</li></supportedVersions>
+	<description>Exposes the methods related to orbital trading to modders, allowing them to expand trading while maintaining compatibility with other mods using the framework.</description>
+</ModMetaData>

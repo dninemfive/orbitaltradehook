@@ -1,0 +1,15 @@
+C:\Users\dninemfive\Documents\Visual Studio 2017\Projects\OrbitalTradeHook\OrbitalTradeHook\bin\Debug\OrbitalTradeHook.dll
+C:\Users\dninemfive\Documents\Visual Studio 2017\Projects\OrbitalTradeHook\OrbitalTradeHook\bin\Debug\OrbitalTradeHook.pdb
+C:\Users\dninemfive\Documents\Visual Studio 2017\Projects\OrbitalTradeHook\OrbitalTradeHook\bin\Debug\0Harmony.dll
+C:\Users\dninemfive\Documents\Visual Studio 2017\Projects\OrbitalTradeHook\OrbitalTradeHook\bin\Debug\Assembly-CSharp.dll
+C:\Users\dninemfive\Documents\Visual Studio 2017\Projects\OrbitalTradeHook\OrbitalTradeHook\bin\Debug\UnityEngine.dll
+C:\Users\dninemfive\Documents\Visual Studio 2017\Projects\OrbitalTradeHook\OrbitalTradeHook\bin\Debug\TextMeshPro-1.0.55.56.0b11.dll
+C:\Users\dninemfive\Documents\Visual Studio 2017\Projects\OrbitalTradeHook\OrbitalTradeHook\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\dninemfive\Documents\Visual Studio 2017\Projects\OrbitalTradeHook\OrbitalTradeHook\bin\Debug\NAudio.dll
+C:\Users\dninemfive\Documents\Visual Studio 2017\Projects\OrbitalTradeHook\OrbitalTradeHook\bin\Debug\NVorbis.dll
+C:\Users\dninemfive\Documents\Visual Studio 2017\Projects\OrbitalTradeHook\OrbitalTradeHook\bin\Debug\UnityEngine.UI.dll
+C:\Users\dninemfive\Documents\Visual Studio 2017\Projects\OrbitalTradeHook\OrbitalTradeHook\obj\Debug\OrbitalTradeHook.csprojResolveAssemblyReference.cache
+C:\Users\dninemfive\Documents\Visual Studio 2017\Projects\OrbitalTradeHook\OrbitalTradeHook\obj\Debug\OrbitalTradeHook.csproj.CoreCompileInputs.cache
+C:\Users\dninemfive\Documents\Visual Studio 2017\Projects\OrbitalTradeHook\OrbitalTradeHook\obj\Debug\OrbitalTradeHook.csproj.CopyComplete
+C:\Users\dninemfive\Documents\Visual Studio 2017\Projects\OrbitalTradeHook\OrbitalTradeHook\obj\Debug\OrbitalTradeHook.dll
+C:\Users\dninemfive\Documents\Visual Studio 2017\Projects\OrbitalTradeHook\OrbitalTradeHook\obj\Debug\OrbitalTradeHook.pdb
