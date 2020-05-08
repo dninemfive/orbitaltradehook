@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<LiteUpdateNotice.NoticeDef>
+		<defName>D9OTHNotice</defName>
+		<label>Orbital Trade Hook is going away!</label>
+		<description>Orbital Trade Hook is going to be folded into the Steam download for Deconstruct Return Fix as I combine all my patches into a single framework. The page will go private on November 5, 2019.\n\nI'd appreciate it if you commented telling me why you're using this mod, by the way; I'm not aware of anything making use of it yet.</description>
+		<letter>D9UpdateNotice</letter>
+	</LiteUpdateNotice.NoticeDef>
+</Defs>
